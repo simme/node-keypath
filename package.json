@@ -1,0 +1,16 @@
+{ "name": "keypath",
+  "version": "0.0.1",
+  "description": "Access values in nested properties and arrays using a keypath.",
+  "main": "keypath.js",
+  "directories": { "test": "test" },
+  "scripts": {
+    "test": "mocha -u tdd -R spec"
+  },
+  "devDependencies": {
+    "mocha": "*",
+  }
+  "repository": "",
+  "keywords": [ "traverse", "array", "object", "keypath" ],
+  "author": "Simon Ljungberg <hi@iamsim.me>",
+  "license": "ISC"
+}
