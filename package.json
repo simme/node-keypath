@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "mocha": "*",
-  }
+  },
   "repository": "",
   "keywords": [ "traverse", "array", "object", "keypath" ],
   "author": "Simon Ljungberg <hi@iamsim.me>",
