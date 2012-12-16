@@ -7,7 +7,7 @@
     "test": "mocha -u tdd -R spec"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "*"
   },
   "repository": "",
   "keywords": [ "traverse", "array", "object", "keypath" ],
